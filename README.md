@@ -6,7 +6,7 @@
 
 **Software Engineering Undergraduate @ SLIIT · Full-Stack Learner · Web Application Developer**
 
-[![Email](https://img.shields.io/badge/Email-afbaf12%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahamedhfarajeen@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ahamedhfarajeen%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahamedhfarajeen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahamedh%20Farajeen-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-Ahamedh%20Farajeen-181717?style=flat-square&logo=github&logoColor=white)](#)
 [![Location](https://img.shields.io/badge/📍_Colombo,_Sri_Lanka-007acc?style=flat-square)](#)
